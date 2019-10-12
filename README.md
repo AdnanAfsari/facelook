@@ -1,5 +1,5 @@
 # Facelook
-Facelook is a clone of some of the features of the Facebook app. Users can make friends, post contents and different posts can be liked and commented on by other users.
+Facelook is a clone of the Facebook App built with Ruby on rails and hosted on heroku. We have implemented some of the core features of Facebook such as Users can make friends, post contents and different posts can be liked and commented on by other users etc.
 > https://www.facebook.com
 
 ![facelook login](login.png "Facelook login")
