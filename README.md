@@ -11,7 +11,7 @@
   - [Technologies](#technologies)
   - [Framework](#framework)
   - [Requirements](#requirements)
-  - [Installation](#installationl)
+  - [Install](#install)
   - [Future improvement](#future-improvement)
   - [Author](#author)
 
@@ -37,7 +37,7 @@ Ruby version 2.6.2
 
 Rails version 5.2.3
 
-## Installation
+## Install
 > Open your git bash and **cd** to the location you'd like to put your files the run the command below.
 
 `git clone https://github.com/JamesOkunlade/facelook`
