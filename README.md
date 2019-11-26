@@ -21,7 +21,7 @@
 ![facelook home](home.png "Facelook home")
 
 ## Background
-Facelook is a clone of the Facebook App built with Ruby on rails and hosted on heroku. We have implemented some of the core features of Facebook such as Users can make friends, post contents and different posts can be liked and commented on by other users etc.
+Facelook is a clone of the Facebook App built with Ruby on rails and hosted on heroku. We have implemented some of the core features of Facebook such as Users can make friends, post content and different posts can be liked and commented on by other users etc.
 
 
 ## Technologies
